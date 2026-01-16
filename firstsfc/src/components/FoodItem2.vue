@@ -1,5 +1,5 @@
 <template>
-  <div class="orange">
+  <div class="karekare">
     <h2>{{ name }}</h2>
     <p>{{ message }}</p>
   </div>
@@ -9,20 +9,19 @@
 export default {
   data() {
     return {
-      name: 'Santol, patola, Orange',
-      message: 'I like Santol, patola, Orange'
+      name: 'Watermelon, pomelo, kiwi',
+      message: 'I like Watermelon, pomelo, kiwi'
     }
   }
 };
 </script>
 
 <style>
-.orange {
+.karekare
     border: dashed black 1px;
     display: inline-block;
     margin: 10px;
     padding: 10px;
     background-color: lightgreen;
   }
-
 </style>
