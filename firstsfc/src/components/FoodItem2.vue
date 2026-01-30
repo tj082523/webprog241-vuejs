@@ -1,5 +1,5 @@
 <template>
-  <div class="karekare">
+  <div class="kiwi">
     <h2>{{ name }}</h2>
     <p>{{ message }}</p>
   </div>
@@ -17,11 +17,11 @@ export default {
 </script>
 
 <style>
-.karekare {
+ .kiwi {
     border: dashed black 1px;
     display: inline-block;
     margin: 10px;
     padding: 10px;
-    background-color: lightgreen;
+    background-color: violet;
   }
 </style>
