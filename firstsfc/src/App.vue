@@ -8,6 +8,7 @@
     <food-item class="green"/>
     <food-item2 class="pink"/>
     <food-item2 class="pink"/>
+    <personal-profile />
   </div>
 
 
