@@ -28,7 +28,7 @@
         </div>
 
         <div class="col-md-5 text-center mt-4 mt-md-0">
-          <img src="/josh1x1.jpg" class="profile-img" alt="Profile" width="250" height="270">
+          <img src="/images/josh1x1.jpg" class="profile-img" alt="Profile" width="250" height="270">
         </div>
       </div>
     </section>
