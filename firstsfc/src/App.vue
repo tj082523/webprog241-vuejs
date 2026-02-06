@@ -24,5 +24,5 @@
     padding: 10px;
   .green { background-color: lightgreen; }
   .pink { background-color: rgb(255, 0, 234); }
-
+  }
 </style>
