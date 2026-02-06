@@ -72,11 +72,11 @@
     <section class="container pb-5">
       <h5 class="mb-4"><i class="far fa-images me-2"></i>Gallery</h5>
       <div class="gallery-scroll">
-        <img src="/josh.jpg" alt="Coding" width="250" height="270">
-        <img src="/apcmvt.JPG" alt="Design" width="250" height="270">
-        <img src="/hehe.jpg" alt="Technology" width="250" height="270">
-        <img src="/bebe.jpg" alt="Volleyball" width="250" height="270">
-        <img src="/roxxy.jpg" alt="Coffee" width="250" height="270">
+        <img src="./images/josh.jpg" alt="Coding" width="250" height="270">
+        <img src="./images/apcmvt.JPG" alt="Design" width="250" height="270">
+        <img src="./images/hehe.jpg" alt="Technology" width="250" height="270">
+        <img src="./images/bebe.jpg" alt="Volleyball" width="250" height="270">
+        <img src="./images/roxxy.jpg" alt="Coffee" width="250" height="270">
       </div>
     </section>
   </div>
